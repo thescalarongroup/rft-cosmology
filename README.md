@@ -3,7 +3,7 @@
 > *"They assumed the vacuum was empty. It never was."*
 
 Welcome to the first transmission from **RFT-01**, a project initiated under The Scalaron Group.  
-This repository contains fragments of a cosmological theory that was not supposed to surface.
+This repository contains fragments of a cosmological theory that was not supposed to surface, but now the theory has become undeniable.
 
 **RFT Cosmology** proposes that both dark matter and cosmic acceleration are manifestations of two coupled scalar fields:  
 - An ultralight axion (ψ), resonating at kiloparsec scales  
